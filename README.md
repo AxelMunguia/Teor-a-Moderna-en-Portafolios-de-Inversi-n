@@ -1,2 +1,2 @@
-# Teor-a-Moderna-en-Portafolios-de-Inversi-n
+# Teoria Moderna de Inversion
 Port-Invers
